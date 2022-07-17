@@ -1,5 +1,6 @@
 # Twitterclone
 Learning by doing mistakes</br>
 :construction:  Work in progress </br></br>
-Work done till now:</br></br>
-![Out put](screenshot.png?raw=true "Output")
+<h3>Work done till now:</h3></br></br>
+
+<img src ="screenshot.png" alt="Login" height="500"/>
