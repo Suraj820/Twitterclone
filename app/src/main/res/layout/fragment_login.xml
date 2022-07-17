@@ -21,7 +21,6 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:fontFamily="@font/helvetica_neue_medium_it"
         android:text="Sign in to Twitter"
         android:textColor="@color/black"
         android:textSize="20sp"

@@ -5,7 +5,7 @@
       <map>
         <entry key="app/src/main/res/drawable/ic_twitter.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.75" />
-        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.33" />
       </map>
     </option>
   </component>
